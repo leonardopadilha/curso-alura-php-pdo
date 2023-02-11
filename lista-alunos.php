@@ -24,7 +24,7 @@ var_dump($studentList);
 
 //echo $studentList[0]['name'];
 
-echo PHP_EOL;
+//echo PHP_EOL;
 
 /*
 while ($studentData = $statement->fetch(PDO::FETCH_ASSOC)) {
