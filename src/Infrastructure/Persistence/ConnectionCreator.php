@@ -4,7 +4,7 @@ namespace Alura\Pdo\Infrastructure\Persistence;
 
 use PDO;
 
-class ConectionCreator
+class ConnectionCreator
 {
     public static function createConnection() : PDO
     {
